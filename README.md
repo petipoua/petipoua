@@ -12,9 +12,9 @@ indie dev making web apps that don't break your flow
 
 FastAPI + Svelte
 
-## what's next
+## soon
 
-📝 blog (tech, AI, programming stuff)
+📝 blog (tech, AI, programming stuff)  
 🎥 youtube (same vibes)
 
 ## find me live
