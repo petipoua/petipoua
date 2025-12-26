@@ -23,6 +23,7 @@ FastAPI + Svelte
 tech news + chill coding sessions
 tue/thu/sat - 8pm-midnight CET/CEST (European Time)
 
----
+<br>
+<br>
 
 feedback always welcome!
