@@ -48,13 +48,6 @@
   <img src="https://i.postimg.cc/JnjQ7YhP/schedule5.png" alt="Stream Schedule" width="300" />
 </p>
 
-```
-                                                              ╔════════════════════════════╗
-                                                              ║  TECH NEWS • CHILL CODING  ║
-                                                              ╚════════════════════════════╝
-```
-
-
 
 
 ---
