@@ -19,11 +19,18 @@ FastAPI + Svelte
 
 ## find me live
 
-🟣 **[Twitch channel](https://twitch.tv/peti_poua)** / 🕓 **[Stream schedule](https://www.twitch.tv/peti_poua/schedule)**  
+
+<a href="https://www.twitch.tv/peti_poua">
+  <img src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594" alt="Twitch Logo" width="50"/>
+</a>  
+
+🟪 **[peti_poua](https://twitch.tv/peti_poua)**  / 🕓 **[Stream schedule](https://www.twitch.tv/peti_poua/schedule)**  
+
+
+
+
 tech news + chill coding sessions
 tue/thu/sat - 8pm-midnight CET/CEST (European Time)
 
-<br>
-<br>
 
 feedback always welcome!
