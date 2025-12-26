@@ -1,4 +1,28 @@
-I'm building websites, currently working on:
+# peti_poua
 
-\- zenkan.app : a flexible note taking & kanban app with satisfying sounds and rich text for personal use.  
-\- CTRL KAI: a chrome extension to open an AI Popup for quick AI summary/questions of the current webpage, without switching tabs.
+indie dev making web apps that don't break your flow
+
+## what i'm building
+
+**[zenkan.app](https://zenkan.app)** — note-taking app that sits between Notion and Google Keep. flexible kanban boards, rich text, satisfying UX. built for personal use that actually feels good.
+
+**[ctrlkai.com](https://ctrlkai.com)** — chrome extension for AI summaries without leaving your tab. no copy-paste, no context switching, just ask questions about the page you're on.
+
+## tech stack
+
+FastAPI + Svelte
+
+## what's next
+
+📝 blog (tech, AI, programming stuff)
+🎥 youtube (same vibes)
+
+## find me live
+
+🟣 **[twitch.tv/peti_poua](https://twitch.tv/peti_poua)**
+tech news + chill coding sessions
+tue/thu/sat • 8pm-midnight
+
+---
+
+feedback always welcome ✌️
