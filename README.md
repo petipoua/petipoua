@@ -19,9 +19,9 @@ FastAPI + Svelte
 
 ## find me live
 
-🟣 **[twitch.tv/peti_poua](https://twitch.tv/peti_poua)**
+🟣 **[Twitch channel](https://twitch.tv/peti_poua)** // 🕓 **[Stream schedule](https://www.twitch.tv/peti_poua/schedule)**  
 tech news + chill coding sessions
-tue/thu/sat • 8pm-midnight CET
+tue/thu/sat • 8pm-midnight CET/CEST (European Time)
 
 ---
 
