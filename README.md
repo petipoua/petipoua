@@ -64,7 +64,7 @@ FastAPI + Svelte
 
 ### soon
 
-📝 blog (tech, AI, programming stuff)
+📝 blog (tech, AI, programming stuff)  
 🎥 youtube (same)
 
 ---
