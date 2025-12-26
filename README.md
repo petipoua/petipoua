@@ -1,54 +1,31 @@
-<div align="center">
-
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║    ██████╗ ███████╗████████╗██╗        ██████╗  ██████╗ ██╗   ██╗ █████╗      ║
-║    ██╔══██╗██╔════╝╚══██╔══╝██║        ██╔══██╗██╔═══██╗██║   ██║██╔══██╗     ║
-║    ██████╔╝█████╗     ██║   ██║        ██████╔╝██║   ██║██║   ██║███████║     ║
-║    ██╔═══╝ ██╔══╝     ██║   ██║        ██╔═══╝ ██║   ██║██║   ██║██╔══██║     ║
-║    ██║     ███████╗   ██║   ██║███████╗██║     ╚██████╔╝╚██████╔╝██║  ██║     ║
-║    ╚═╝     ╚══════╝   ╚═╝   ╚═╝╚══════╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝     ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║                                                                              ║
+  ║    ██████╗ ███████╗████████╗██╗        ██████╗  ██████╗ ██╗   ██╗ █████╗     ║
+  ║    ██╔══██╗██╔════╝╚══██╔══╝██║        ██╔══██╗██╔═══██╗██║   ██║██╔══██╗    ║
+  ║    ██████╔╝█████╗     ██║   ██║        ██████╔╝██║   ██║██║   ██║███████║    ║
+  ║    ██╔═══╝ ██╔══╝     ██║   ██║        ██╔═══╝ ██║   ██║██║   ██║██╔══██║    ║
+  ║    ██║     ███████╗   ██║   ██║███████╗██║     ╚██████╔╝╚██████╔╝██║  ██║    ║
+  ║    ╚═╝     ╚══════╝   ╚═╝   ╚═╝╚══════╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝    ║
+  ║                                                                              ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" valign="middle">
 <a href="https://www.twitch.tv/peti_poua">
-  <img src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594" alt="Twitch" width="120"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<a href="https://www.twitch.tv/peti_poua">
-  <img src="https://img.shields.io/twitch/status/peti_poua?style=for-the-badge&logo=twitch&logoColor=white&label=STATUS&color=9146FF" alt="Twitch Status"/>
+  <img src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594" alt="Twitch" width="120" style="display:block; margin:0 auto;"/>
 </a>
 
-### **[🟣 LIVE @ peti_poua](https://twitch.tv/peti_poua)**
+<a href="https://www.twitch.tv/peti_poua">
+  <img src="https://img.shields.io/twitch/status/peti_poua?style=for-the-badge&logo=twitch&logoColor=white&label=STATUS&color=9146FF" alt="Twitch Status" style="display:block; margin:20px auto;"/>
+</a>
 
-<table>
-<tr>
-<td align="center" width="50%">
+### [🟣 LIVE @ peti_poua](https://twitch.tv/peti_poua)
 
 **🎮 WHAT I STREAM**
-tech news + chill coding sessions
-building real apps in real time
-
-</td>
-<td align="center" width="50%">
+tech news + chill coding sessions • building real apps in real time
 
 **⏰ WHEN I'M LIVE**
-Tue / Thu / Sat
-8pm - midnight CET/CEST
-
-</td>
-</tr>
-</table>
+Tue / Thu / Sat • 8pm - midnight CET/CEST
 
 **[📅 Full Stream Schedule →](https://www.twitch.tv/peti_poua/schedule)**
 
@@ -59,8 +36,6 @@ Tue / Thu / Sat
 ```
 
 ---
-
-</div>
 
 ## peti_poua
 
