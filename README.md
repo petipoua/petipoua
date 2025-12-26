@@ -21,7 +21,7 @@ FastAPI + Svelte
 
 🟣 **[twitch.tv/peti_poua](https://twitch.tv/peti_poua)**
 tech news + chill coding sessions
-tue/thu/sat • 8pm-midnight
+tue/thu/sat • 8pm-midnight CET
 
 ---
 
