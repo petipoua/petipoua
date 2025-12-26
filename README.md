@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <pre>
         ╔══════════════════════════════════════════════════════════════════════════════╗
         ║                                                                              ║
@@ -14,19 +14,20 @@
 </div>
 
 <p align="center">
-  <a href="https://www.twitch.tv/peti_poua" style="display: inline-block; vertical-align: middle;">
+  <a href="https://www.twitch.tv/peti_poua">
     <img
       src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594"
       alt="Twitch"
       width="120"
-      style="display: inline-block; vertical-align: middle;"
+      height="120"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://i.postimg.cc/NM72K3vy/peti-poua.jpg"
+    src="https://i.postimg.cc/T344ssSp/peti-poua-modified.png"
     alt="peti_poua"
     width="120"
-    style="display: inline-block; vertical-align: middle; border-radius: 105px; margin-left: 20px; object-fit: cover; object-position: center; height: 120px;"
+    height="120"
   />
 </p>
 
