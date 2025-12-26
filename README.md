@@ -15,7 +15,7 @@ FastAPI + Svelte
 ## soon
 
 📝 blog (tech, AI, programming stuff)  
-🎥 youtube (same vibes)
+🎥 youtube (same)
 
 ## find me live
 
