@@ -52,10 +52,6 @@
 
 ---
 
-## peti_poua
-
-indie dev making web apps that don't break your flow
-
 ### what i'm building
 
 **[zenkan.app](https://zenkan.app)** — note-taking app that sits between Notion and Google Keep. flexible kanban boards, rich text, satisfying UX. built for personal use that actually feels good.
