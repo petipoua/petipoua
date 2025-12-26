@@ -11,17 +11,25 @@
         ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://www.twitch.tv/peti_poua">
-    <img src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594" alt="Twitch" width="120"/>
+    <img
+      src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594"
+      alt="Twitch"
+      width="120"
+    />
   </a>
-</div>
+</p>
 
-<div style="text-align: center; margin: 20px 0;">
+<p align="center">
   <a href="https://www.twitch.tv/peti_poua">
-    <img src="https://img.shields.io/twitch/status/peti_poua?style=for-the-badge&logo=twitch&logoColor=white&label=STATUS&color=9146FF" alt="Twitch Status"/>
+    <img
+      src="https://img.shields.io/twitch/status/peti_poua?style=for-the-badge&logo=twitch&logoColor=white&label=STATUS&color=9146FF"
+      alt="Twitch Status"
+    />
   </a>
-</div>
+</p>
+
 
 ### [🟣 LIVE @ peti_poua](https://twitch.tv/peti_poua)
 
