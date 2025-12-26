@@ -23,12 +23,14 @@
     />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://i.postimg.cc/T344ssSp/peti-poua-modified.png"
-    alt="peti_poua"
-    width="120"
-    height="120"
-  />
+  <a href="https://www.twitch.tv/peti_poua">
+    <img
+      src="https://i.postimg.cc/T344ssSp/peti-poua-modified.png"
+      alt="peti_poua"
+      width="120"
+      height="120"
+    />
+  </a>
 </p>
 
 <p align="center">
@@ -39,23 +41,19 @@
     />
   </a>
 </p>
-
-
-### [🟣 LIVE @ peti_poua](https://twitch.tv/peti_poua)
-
-**🎮 WHAT I STREAM**
-tech news + chill coding sessions • building real apps in real time
-
-**⏰ WHEN I'M LIVE**
-Tue / Thu / Sat • 8pm - midnight CET/CEST
-
-**[📅 Full Stream Schedule →](https://www.twitch.tv/peti_poua/schedule)**
+<p align="center">
+  <img src="https://i.postimg.cc/JnjQ7YhP/schedule5.png" alt="Stream Schedule" width="300" />
+</p>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  JOIN THE STREAM • CHAT ABOUT CODE • WATCH SOMETHING GET BUILT FROM SCRATCH ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════╗
+║  TECH NEWS • CHILL CODING  ║
+╚════════════════════════════╝
 ```
+
+
+
+
 
 ---
 
