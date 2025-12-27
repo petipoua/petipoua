@@ -17,43 +17,16 @@
 </div>
 
 <p align="center">
-  <a href="https://www.twitch.tv/peti_poua" target="_blank" rel="noopener">
-    <img
-      src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594"
-      alt="Twitch"
-      width="120"
-      height="120"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/peti_poua" target="_blank" rel="noopener">
-    <img
-      src="https://i.postimg.cc/T344ssSp/peti-poua-modified.png"
-      alt="peti_poua"
-      width="120"
-      height="120"
-    />
-  </a>
+  <a href="https://www.twitch.tv/peti_poua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594" alt="Twitch" width="120" height="120" /></a>
+  <a href="https://www.twitch.tv/peti_poua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://i.postimg.cc/T344ssSp/peti-poua-modified.png" alt="peti_poua" width="120" height="120" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.twitch.tv/peti_poua" target="_blank" rel="noopener">
-    <img
-      src="https://img.shields.io/twitch/status/peti_poua?style=for-the-badge&logo=twitch&logoColor=white&logoSize=wide&label=peti_poua&labelColor=grey"
-      alt="Twitch Status"
-    />
-  </a>
+  <a href="https://www.twitch.tv/peti_poua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/twitch/status/peti_poua?style=for-the-badge&logo=twitch&logoColor=white&logoSize=wide&label=peti_poua&labelColor=grey" alt="Twitch Status" /></a>
 </p>
 
 <p align="center">
-<a href="https://www.twitch.tv/peti_poua/schedule" target="_blank" rel="noopener">
-  <img
-    src="https://img.shields.io/badge/next_streams_here-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
-    alt="Stream Schedule"
-    width="230"
-    height="40"
-  />
-</a>
+<a href="https://www.twitch.tv/peti_poua/schedule" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/next_streams_here-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Stream Schedule" width="230" height="40" /></a>
 </p>
 
 
