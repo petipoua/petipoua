@@ -11,8 +11,14 @@
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ╔════════════════════════════╗
-║  TECH NEWS • CHILL CODING  ║
+║  TECH NEWS & CHILL CODING  ║
 ╚════════════════════════════╝
+╔═════════════════════════════════════════════════════╗
+║  STREAM SCHEDULE                                    ║
+║  ───────────────                                    ║
+║  Days:  Tuesday / Thursday / Saturday               ║
+║  Time:  8PM CET/CEST   ·   6/7PM UTC                ║
+╚═════════════════════════════════════════════════════╝
 </pre>
 </div>
 
@@ -39,14 +45,23 @@
 <p align="center">
   <a href="https://www.twitch.tv/peti_poua">
     <img
-      src="https://img.shields.io/twitch/status/peti_poua?style=for-the-badge&logo=twitch&logoColor=white&label=STATUS&color=9146FF"
+      src="https://img.shields.io/twitch/status/peti_poua?style=for-the-badge&logo=twitch&logoColor=white&logoSize=wide&label=peti_poua&labelColor=grey"
       alt="Twitch Status"
     />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://i.postimg.cc/JnjQ7YhP/schedule5.png" alt="Stream Schedule" width="300" />
+<a href="https://www.twitch.tv/peti_poua/schedule">
+  <img
+    src="https://img.shields.io/badge/STREAM_SCHEDULE_HERE-9146FF?style=for-the-badge"
+    alt="Stream Schedule Here"
+  />
+</a>
 </p>
+
+
+
 
 
 
@@ -64,8 +79,14 @@ FastAPI + Svelte
 
 ### soon
 
-📝 blog (tech, AI, programming stuff)  
-🎥 youtube (same)
+📝 blog: **[petipoua.com](https://petipoua.com)**  
+
+<img src="https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1728452988041" 
+alt="YouTube" width="20" height="20" style="vertical-align:middle;" />
+YouTube:
+- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> **[peti_poua](https://youtube.com/peti_poua)**
+- <img src="https://i.postimg.cc/PPMtLrGS/peti-poua-modified-orange.png" alt="" width="24" height="24" style="vertical-align:middle;"/> **[peti_poua_streams](https://youtube.com/peti_poua_streams)** 
+- <img src="https://i.postimg.cc/ZCLT9Kkf/peti-poua-modified-red.png" alt="" width="24" height="24" style="vertical-align:middle;"/> **[peti_poua_clips](https://youtube.com/peti_poua_clips)**
 
 ---
 
