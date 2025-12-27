@@ -65,9 +65,9 @@
 
 ### what i'm building
 
-<a href="https://zenkan.app" target="_blank" rel="noopener"><strong>zenkan.app</strong></a> — note-taking app that sits between Notion and Google Keep. flexible kanban boards, rich text, satisfying UX. built for personal use that actually feels good.
+<a href="https://zenkan.app" target="_blank" rel="noopener"><strong>zenkan.app</strong></a> — Note-taking app that sits between Notion and Google Keep. Flexible kanban boards, rich text, satisfying UX. Built for personal notes that feels good.
 
-<a href="https://ctrlkai.com" target="_blank" rel="noopener"><strong>ctrlkai.com</strong></a> — chrome extension for AI summaries without leaving your tab. no copy-paste, no context switching, just ask questions about the page you're on.
+<a href="https://ctrlkai.com" target="_blank" rel="noopener"><strong>ctrlkai.com</strong></a> — Chrome extension for AI summaries without leaving the current page. No copy-paste, no context switching. Small model is free, big model is paid.
 
 ### tech stack
 
