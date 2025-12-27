@@ -13,12 +13,6 @@
 ╔════════════════════════════╗
 ║  TECH NEWS & CHILL CODING  ║
 ╚════════════════════════════╝
-╔═════════════════════════════════════════════════════╗
-║  STREAM SCHEDULE                                    ║
-║  ───────────────                                    ║
-║  Days:  Tuesday / Thursday / Saturday               ║
-║  Time:  8PM CET/CEST   ·   6/7PM UTC                ║
-╚═════════════════════════════════════════════════════╝
 </pre>
 </div>
 
@@ -54,8 +48,10 @@
 <p align="center">
 <a href="https://www.twitch.tv/peti_poua/schedule">
   <img
-    src="https://img.shields.io/badge/STREAM_SCHEDULE_HERE-9146FF?style=for-the-badge"
-    alt="Stream Schedule Here"
+    src="https://img.shields.io/badge/next_streams_here-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+    alt="Stream Schedule"
+    width="230"
+    height="40"
   />
 </a>
 </p>
