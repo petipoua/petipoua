@@ -48,7 +48,7 @@ FastAPI + Svelte
 
 ### Soon
 
-📝 blog: <a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
+📝 Blog: <a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
 
 <img src="https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1728452988041" 
 alt="YouTube" width="20" height="20" style="vertical-align:middle;" />
