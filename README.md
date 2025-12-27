@@ -46,7 +46,7 @@
 
 FastAPI + Svelte
 
-### Soon
+### (Soon)
 
 📝 Blog: <a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
 
