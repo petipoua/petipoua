@@ -36,17 +36,17 @@
 
 ---
 
-### what i'm building
+### What i'm building
 
 <a href="https://zenkan.app" target="_blank" rel="noopener"><strong>zenkan.app</strong></a> — Note-taking app that sits between Notion and Google Keep. Flexible kanban boards, rich text, satisfying UX. Built for personal notes that feels good.
 
 <a href="https://ctrlkai.com" target="_blank" rel="noopener"><strong>ctrlkai.com</strong></a> — Chrome extension for AI summaries without leaving the current page. No copy-paste, no context switching. Small model is free, big model is paid.
 
-### tech stack
+### Tech stack
 
 FastAPI + Svelte
 
-### soon
+### Soon
 
 📝 blog: <a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
 
