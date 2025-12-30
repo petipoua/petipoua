@@ -28,11 +28,9 @@
 </p>
 
 <p align="center">
-<a href="https://youtube.com/@peti_poua_streams" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/previous_streams-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=wide" alt="Previous Streams" width="220" height="35" /></a>&nbsp&nbsp&nbsp
+<a href="https://youtube.com/@peti_poua_streams" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/previous_streams-d52c2c?style=for-the-badge&logo=youtube&logoColor=white&logoSize=wide" alt="Previous Streams" width="220" height="35" /></a>&nbsp&nbsp&nbsp
 <a href="https://www.twitch.tv/peti_poua/schedule" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/next_streams-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Stream Schedule" width="170" height="35" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
-
-
 
 
 
