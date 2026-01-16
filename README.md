@@ -69,7 +69,7 @@ YouTube:
 
 feedback always welcome!  
 <br>
-<a href="https://petipoua.com/feedback" target="_blank" rel="noopener" style="text-decoration: none;">
+<a href="https://petipoua.com/feedback.html" target="_blank" rel="noopener" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/GIVE_FEEDBACK-5B7060?style=for-the-badge" alt="Feedback" width="135" height="55" />
 </a>
 
