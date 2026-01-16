@@ -47,9 +47,11 @@
 
 FastAPI + Svelte
 
-### (Soon)
-
-📝 Blog: <a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
+### Content
+<img src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594" 
+alt="Twitch" width="20" height="20" style="vertical-align:middle;" />
+Twitch:
+- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://twitch.tv/peti_poua" target="_blank" rel="noopener"><strong>peti_poua</strong></a>
 
 <img src="https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1728452988041" 
 alt="YouTube" width="20" height="20" style="vertical-align:middle;" />
@@ -57,6 +59,11 @@ YouTube:
 - <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/peti_poua" target="_blank" rel="noopener"><strong>peti_poua</strong></a>
 - <img src="https://i.postimg.cc/PPMtLrGS/peti-poua-modified-orange.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/peti_poua_streams" target="_blank" rel="noopener"><strong>peti_poua_streams</strong></a>
 - <img src="https://i.postimg.cc/ZCLT9Kkf/peti-poua-modified-red.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/peti_poua_clips" target="_blank" rel="noopener"><strong>peti_poua_clips</strong></a>
+
+📝 Blog: 
+- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/peti_poua" target="_blank" rel="noopener"><a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
+
+
 
 ---
 
