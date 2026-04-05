@@ -20,16 +20,16 @@
 </div>
 
 <p align="center">
-  <a href="https://www.twitch.tv/peti_poua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://i.postimg.cc/T344ssSp/peti-poua-modified.png" alt="peti_poua" width="120" height="120" /></a>
+  <a href="https://www.twitch.tv/petipoua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://i.postimg.cc/T344ssSp/peti-poua-modified.png" alt="petipoua" width="120" height="120" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.twitch.tv/peti_poua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/twitch/status/peti_poua?style=for-the-badge&logo=twitch&logoColor=white&logoSize=wide&label=peti_poua&labelColor=grey" alt="Twitch Status" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.twitch.tv/petipoua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/twitch/status/petipoua?style=for-the-badge&logo=twitch&logoColor=white&logoSize=wide&label=petipoua&labelColor=grey" alt="Twitch Status" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
 
 <p align="center">
-<a href="https://youtube.com/@peti_poua_streams" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/previous_streams-e83131?style=for-the-badge&logo=youtube&logoColor=white&logoSize=wide" alt="Previous Streams" width="220" height="35" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.twitch.tv/peti_poua/schedule" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/next_streams-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Stream Schedule" width="170" height="35" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://youtube.com/@petipoua_streams" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/previous_streams-e83131?style=for-the-badge&logo=youtube&logoColor=white&logoSize=wide" alt="Previous Streams" width="220" height="35" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.twitch.tv/petipoua/schedule" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/next_streams-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Stream Schedule" width="170" height="35" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
 
 
@@ -51,17 +51,17 @@ FastAPI + Svelte
 <img src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594" 
 alt="Twitch" width="20" height="20" style="vertical-align:middle;" />
 Twitch:
-- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://twitch.tv/peti_poua" target="_blank" rel="noopener"><strong>peti_poua</strong></a>
+- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://twitch.tv/petipoua" target="_blank" rel="noopener"><strong>petipoua</strong></a>
 
 <img src="https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1728452988041" 
 alt="YouTube" width="20" height="20" style="vertical-align:middle;" />
 YouTube:
-- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/peti_poua" target="_blank" rel="noopener"><strong>peti_poua</strong></a>
-- <img src="https://i.postimg.cc/PPMtLrGS/peti-poua-modified-orange.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/peti_poua_streams" target="_blank" rel="noopener"><strong>peti_poua_streams</strong></a>
-- <img src="https://i.postimg.cc/ZCLT9Kkf/peti-poua-modified-red.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/peti_poua_clips" target="_blank" rel="noopener"><strong>peti_poua_clips</strong></a>
+- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/petipoua" target="_blank" rel="noopener"><strong>petipoua</strong></a>
+- <img src="https://i.postimg.cc/PPMtLrGS/peti-poua-modified-orange.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/petipoua_streams" target="_blank" rel="noopener"><strong>petipoua_streams</strong></a>
+- <img src="https://i.postimg.cc/ZCLT9Kkf/peti-poua-modified-red.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/petipoua_clips" target="_blank" rel="noopener"><strong>petipoua_clips</strong></a>
 
 📝 Blog: 
-- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/peti_poua" target="_blank" rel="noopener"><a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
+- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/petipoua" target="_blank" rel="noopener"><a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
 
 
 
