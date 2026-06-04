@@ -9,5 +9,5 @@ current ideas (flexible): open source world model layer for AI infrastructure
 
 ## What I built
 
-- [**Zenkan**](https://zenkan.app) — A note-taking app between Notion and Google Keep: flexible kanban boards, rich text, satisfying UX, built for personal notes that feel good to use.
+- [**Zenkan**](https://zenkan.app) — note-taking app with flexible kanban boards, rich text, satisfying UX, built for personal notes that feel good to use.
 - [**CTRL KAI**](https://ctrlkai.com) — A Chrome extension for AI summaries without leaving the current page: no copy-paste, no context switching.
