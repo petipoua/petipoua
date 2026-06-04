@@ -12,5 +12,5 @@ current ideas (flexible): open source AI world model (LeCun style) layer on top 
 
 ## what I built
 
-- [**Zenkan**](https://zenkan.app) — note-taking app with flexible kanban boards, rich text, satisfying UX, built for personal notes that feel good to use.
-- [**CTRL KAI**](https://ctrlkai.com) — A Chrome extension for AI summaries without leaving the current page: no copy-paste, no context switching.
+- [**Zenkan**](https://zenkan.app) — note-taking app with flexible kanban boards, rich text, satisfying UX, built for personal notes that feel good to use (only desktop friendly for now)
+- [**CTRL KAI**](https://ctrlkai.com) — a Chrome extension for AI summaries without leaving the current page: no copy-paste, no context switching.
