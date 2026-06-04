@@ -24,6 +24,10 @@
 </p>
 
 <p align="center">
+  <strong>i'm seeking a cofounder to create a startup rn</strong>
+</p>
+
+<p align="center">
   <a href="https://www.twitch.tv/petipoua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/twitch/status/petipoua?style=for-the-badge&logo=twitch&logoColor=white&logoSize=wide&label=petipoua&labelColor=grey" alt="Twitch Status" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
 
@@ -62,7 +66,5 @@ YouTube:
 
 📝 Blog: 
 - <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/petipoua" target="_blank" rel="noopener"><a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
-
-
 
 
