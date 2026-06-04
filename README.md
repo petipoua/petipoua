@@ -2,6 +2,8 @@
 
 **Currently seeking a cofounder to build an ambitious high growth startup.**
 
+software leaning but open
+
 I can work on: backend (Python FastAPI), frontend (JS/TS Svelte), administrative/legal stuff (I have a master's in law + created a small SASU a few years ago), accounting basics, good English skills (i stream in English a few times per week)
 
 
