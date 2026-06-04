@@ -1,26 +1,20 @@
 # petipoua
 
-Independent developer building practical software products.
+**Currently seeking a cofounder to build a high growth startup.**
 
-**Currently seeking a cofounder to build a startup.**
-
-I work across code, product, and marketing. I like shipping small products end-to-end: backend, frontend, deployment, copy, UX, and iteration from real user feedback.
-
-I'm looking for someone interested in building a high growth startup.
+I can work on: backend (Python FastAPI), frontend (JS/TS Svelte), amdinistrative/legal stuff (I have a master's in law + created a small SASU a few years ago), english speaking (i stream in english a few times per week)
 
 
-## What I'm building
+current ideas (flexible): open source world model layer for AI infrastructure
+
+## What I built
 
 - [**Zenkan**](https://zenkan.app) — A note-taking app between Notion and Google Keep: flexible kanban boards, rich text, satisfying UX, built for personal notes that feel good to use.
 - [**CTRL KAI**](https://ctrlkai.com) — A Chrome extension for AI summaries without leaving the current page: no copy-paste, no context switching.
 
 ## Stack
 
-Python · FastAPI · Svelte / SvelteKit · TypeScript · HTML · CSS · JavaScript · Docker · Linux · Cloudflare · self-hosting
-
-## Communication
-
-French native. Fluent in English, with spoken English practice several times per week.
+Python · FastAPI · Svelte / SvelteKit · TypeScript · HTML · CSS · JavaScript · Docker · Linux · Google Cloud Platform · Cloudflare · self-hosting
 
 ## Links
 
