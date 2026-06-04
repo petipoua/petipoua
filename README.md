@@ -2,7 +2,7 @@
 
 **Currently seeking a cofounder to build a high growth startup.**
 
-I can work on: backend (Python FastAPI), frontend (JS/TS Svelte), amdinistrative/legal stuff (I have a master's in law + created a small SASU a few years ago), english speaking (i stream in english a few times per week)
+I can work on: backend (Python FastAPI), frontend (JS/TS Svelte), administrative/legal stuff (I have a master's in law + created a small SASU a few years ago), good English skills (i stream in English a few times per week)
 
 
 current ideas (flexible): open source world model layer for AI infrastructure
