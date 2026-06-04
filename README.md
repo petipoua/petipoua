@@ -6,6 +6,9 @@ Independent developer building practical software products.
 
 I work across code, product, and marketing. I like shipping small products end-to-end: backend, frontend, deployment, copy, UX, and iteration from real user feedback.
 
+I'm looking for someone interested in building a high growth startup.
+
+
 ## What I'm building
 
 - [**Zenkan**](https://zenkan.app) — A note-taking app between Notion and Google Keep: flexible kanban boards, rich text, satisfying UX, built for personal notes that feel good to use.
@@ -14,10 +17,6 @@ I work across code, product, and marketing. I like shipping small products end-t
 ## Stack
 
 Python · FastAPI · Svelte / SvelteKit · TypeScript · HTML · CSS · JavaScript · Docker · Linux · Cloudflare · self-hosting
-
-## Cofounder signal
-
-I'm looking for someone interested in building a focused startup with fast shipping, simple tools, direct user feedback, and strong distribution.
 
 ## Communication
 
