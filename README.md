@@ -7,7 +7,7 @@ software leaning but open
 my skills: backend (Python FastAPI), frontend (JS/TS Svelte), administrative/legal stuff (I have a master's in law + created a small SASU a few years ago), accounting basics, good English skills (i stream in English a few times per week)
 
 
-current ideas (flexible): open source world model layer for AI infrastructure
+current ideas (flexible): open source AI world model (LeCun style) layer for AI infrastructure
 
 ## what I built
 
