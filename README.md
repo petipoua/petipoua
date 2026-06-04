@@ -1,70 +1,30 @@
-<div align="center">
-<pre>
-╔════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                        ║
-║                                      ██                                                ║
-║                           ██         ▀▀                                                ║
-║     ██▄███▄    ▄████▄   ███████    ████     ██▄███▄    ▄████▄   ██    ██   ▄█████▄     ║
-║     ██▀  ▀██  ██▄▄▄▄██    ██         ██     ██▀  ▀██  ██▀  ▀██  ██    ██   ▀ ▄▄▄██     ║
-║     ██    ██  ██▀▀▀▀▀▀    ██         ██     ██    ██  ██    ██  ██    ██  ▄██▀▀▀██     ║
-║     ███▄▄██▀  ▀██▄▄▄▄█    ██▄▄▄   ▄▄▄██▄▄▄  ███▄▄██▀  ▀██▄▄██▀  ██▄▄▄███  ██▄▄▄███     ║
-║     ██ ▀▀▀      ▀▀▀▀▀      ▀▀▀▀   ▀▀▀▀▀▀▀▀  ██ ▀▀▀      ▀▀▀▀     ▀▀▀▀ ▀▀   ▀▀▀▀ ▀▀     ║
-║     ██                                      ██                                         ║
-║                                                                                        ║
-║                                                                                        ║
-╚════════════════════════════════════════════════════════════════════════════════════════╝
-╔════════════════╗
-║  CHILL CODING  ║
-╚════════════════╝
-</pre>
-</div>
+# petipoua
 
-<p align="center">
-  <a href="https://www.twitch.tv/petipoua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://i.postimg.cc/T344ssSp/peti-poua-modified.png" alt="petipoua" width="120" height="120" /></a>
-</p>
+Independent developer building practical software products.
 
-<p align="center">
-  <strong>i'm seeking a cofounder to create a startup rn</strong>
-</p>
+**Currently seeking a cofounder to build a startup.**
 
-<p align="center">
-  <a href="https://www.twitch.tv/petipoua" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/twitch/status/petipoua?style=for-the-badge&logo=twitch&logoColor=white&logoSize=wide&label=petipoua&labelColor=grey" alt="Twitch Status" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-</p>
+I work across code, product, and marketing. I like shipping small products end-to-end: backend, frontend, deployment, copy, UX, and iteration from real user feedback.
 
-<p align="center">
-<a href="https://youtube.com/@peti_poua_streams" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/previous_streams-e83131?style=for-the-badge&logo=youtube&logoColor=white&logoSize=wide" alt="Previous Streams" width="220" height="35" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.twitch.tv/petipoua/schedule" target="_blank" rel="noopener" style="text-decoration: none;"><img src="https://img.shields.io/badge/next_streams-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Stream Schedule" width="170" height="35" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-</p>
+## What I'm building
 
+- [**Zenkan**](https://zenkan.app) — A note-taking app between Notion and Google Keep: flexible kanban boards, rich text, satisfying UX, built for personal notes that feel good to use.
+- [**CTRL KAI**](https://ctrlkai.com) — A Chrome extension for AI summaries without leaving the current page: no copy-paste, no context switching.
 
+## Stack
 
+Python · FastAPI · Svelte / SvelteKit · TypeScript · HTML · CSS · JavaScript · Docker · Linux · Cloudflare · self-hosting
 
----
+## Cofounder signal
 
-### What i'm building
+I'm looking for someone interested in building a focused startup with fast shipping, simple tools, direct user feedback, and strong distribution.
 
-<a href="https://zenkan.app" target="_blank" rel="noopener"><strong>zenkan.app</strong></a> — Note-taking app that sits between Notion and Google Keep. Flexible kanban boards, rich text, satisfying UX. Built for personal notes that feels good.
+## Communication
 
-<a href="https://ctrlkai.com" target="_blank" rel="noopener"><strong>ctrlkai.com</strong></a> — Chrome extension for AI summaries without leaving the current page. No copy-paste, no context switching. Small model is free, big model is paid.
+French native. Fluent in English, with spoken English practice several times per week.
 
-### Tech stack
+## Links
 
-FastAPI + Svelte
-
-### Content
-<img src="https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070397594" 
-alt="Twitch" width="20" height="20" style="vertical-align:middle;" />
-Twitch:
-- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://twitch.tv/petipoua" target="_blank" rel="noopener"><strong>petipoua</strong></a>
-
-<img src="https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1728452988041" 
-alt="YouTube" width="20" height="20" style="vertical-align:middle;" />
-YouTube:
-- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/@peti_poua" target="_blank" rel="noopener"><strong>petipoua</strong></a>
-- <img src="https://i.postimg.cc/PPMtLrGS/peti-poua-modified-orange.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/@peti_poua_streams" target="_blank" rel="noopener"><strong>petipoua_streams</strong></a>
-- <img src="https://i.postimg.cc/ZCLT9Kkf/peti-poua-modified-red.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/@peti_poua_clips" target="_blank" rel="noopener"><strong>petipoua_clips</strong></a>
-
-📝 Blog: 
-- <img src="https://i.postimg.cc/Bj2pLmJ0/peti-poua-modified.png" alt="" width="24" height="24" style="vertical-align:middle;"/> <a href="https://youtube.com/petipoua" target="_blank" rel="noopener"><a href="https://petipoua.com" target="_blank" rel="noopener"><strong>petipoua.com</strong></a>  
-
-
+- [petipoua.com](https://petipoua.com)
+- [zenkan.app](https://zenkan.app)
+- [ctrlkai.com](https://ctrlkai.com)
